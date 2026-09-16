@@ -13,7 +13,7 @@ require (
 	github.com/dlmiddlecote/sqlstats v1.0.2
 	github.com/dropbox/godropbox v0.0.0-20230623171840-436d2007a9fd
 	github.com/friendsofgo/errors v0.9.2
-	github.com/gabriel-vasile/mimetype v1.4.9
+	github.com/gabriel-vasile/mimetype v1.4.15
 	github.com/go-openapi/errors v0.22.8
 	github.com/go-openapi/runtime v0.33.0
 	github.com/go-openapi/strfmt v0.27.0
